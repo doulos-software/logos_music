@@ -10,3 +10,8 @@ In version 1, because there are only 22 Hebrew and 24 Greek letters, the music w
 In version 2, maybe we can use Hebrew vowels or Greek punctuation to give note-lengths or dynamics.
 OR
 Maybe the combination of letters, per word, can be used to discern a rhythmic tuple.
+
+
+Links:
+http://abc.sourceforge.net/abcMIDI/
+https://github.com/PencilCode/musical.js
